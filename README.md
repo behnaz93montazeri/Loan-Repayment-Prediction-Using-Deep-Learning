@@ -20,10 +20,12 @@ The project relies on two datasets:
 
 -The deep learning model achieved acceptable results in predicting loan repayment with f1-score of 94% for positive cases and 61% for negative cases. Details of the model's performance can be found in the notebook.
 
-## For sure this result can be improved by the future works of
+## Future Work
 
--More feature engineering
--Different architecture for DL model
--Investigation of the role of threshod 0.5 and adjust it to the optimal value by looking to AUC and ROC.
--Tune the hyper parasmeter of learning rate (alpha) and etc. using grid search
--and so on.
+The following areas have been identified for potential improvement:
+
+1. **More Feature Engineering:**
+2. **Different architecture for DL model**
+3. **Investigation of the role of threshod 0.5 and adjust it to the optimal value by looking to AUC and ROC**
+4. **Tune the hyper parasmeter of learning rate (alpha) and etc. using grid search**
+5. **And so on**
