@@ -20,6 +20,9 @@ The project relies on two datasets:
 
 -The deep learning model achieved acceptable results in predicting loan repayment with f1-score of 94% for positive cases and 61% for negative cases. Details of the model's performance can be found in the notebook.
 
+<img width="600" alt="Screenshot 2023-11-27 at 6 13 24 PM" src="https://github.com/behnaz93montazeri/Loan-Repayment-Prediction-Using-Deep-Learning/assets/124638983/aef84c2a-bd1e-48ef-aa9c-36f517986985">
+
+
 ## Future Work
 
 The following areas have been identified for potential improvement:
