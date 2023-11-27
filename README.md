@@ -24,7 +24,7 @@ The project relies on two datasets:
 
 The following areas have been identified for potential improvement:
 
-1. **More Feature Engineering:**
+1. **More Feature Engineering**
 2. **Different architecture for DL model**
 3. **Investigation of the role of threshod 0.5 and adjust it to the optimal value by looking to AUC and ROC**
 4. **Tune the hyper parasmeter of learning rate (alpha) and etc. using grid search**
