@@ -18,9 +18,9 @@ The project relies on two datasets:
 
 ## Results
 
--**The deep learning model achieved acceptable results in predicting loan repayment with f1-score of 94% for positive cases and 61% for negative cases. Details of the model's performance can be found in the notebook.
+-The deep learning model achieved acceptable results in predicting loan repayment with f1-score of 94% for positive cases and 61% for negative cases. Details of the model's performance can be found in the notebook.
 
-#For sure this result can be improved by the future works of
+## For sure this result can be improved by the future works of
 
 -More feature engineering
 -Different architecture for DL model
