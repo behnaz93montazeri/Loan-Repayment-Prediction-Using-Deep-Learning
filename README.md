@@ -22,8 +22,8 @@ The project relies on two datasets:
 
 #For sure this result can be improved by the future works of
 
-**More feature engineering
-**Different architecture for DL model
-**Investigation of the role of threshod 0.5 and adjust it to the optimal value by looking to AUC and ROC.
-**Tune the hyper parasmeter of learning rate (alpha) and etc. using grid search
-**and so on.
+-More feature engineering
+-Different architecture for DL model
+-Investigation of the role of threshod 0.5 and adjust it to the optimal value by looking to AUC and ROC.
+-Tune the hyper parasmeter of learning rate (alpha) and etc. using grid search
+-and so on.
