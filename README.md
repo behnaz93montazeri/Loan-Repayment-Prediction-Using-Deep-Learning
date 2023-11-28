@@ -10,6 +10,30 @@ The project relies on two datasets:
 - lending_club_info.csv:** Information about each column in the lending_club_loan_two dataset.
 - lending_club_loan_two.csv:** The primary dataset containing borrower and loan details.
 
+The primary dataset, `lending_club_loan_two.csv`, is large, and GitHub has file size limitations. Therefore, the dataset has been split into two parts. To access the full dataset, follow the instructions below.
+
+### Instructions for Accessing the Full Dataset
+
+1. **Download the Split Parts:**
+   - Download `dataset.partaa` and `dataset.partab`
+
+2. **Combine Split Files:**
+   - For Unix-based Systems (Linux, macOS):
+     ```bash
+     cat dataset.part* > lending_club_loan_two.zip
+     ```
+   - For Windows:
+     ```bash
+     copy /b dataset.part* lending_club_loan_two.zip
+     ```
+
+3. **Extract the Combined File:**
+   - Extract the combined zip file to obtain `lending_club_loan_two.csv`.
+
+4. **Place the Datasets:**
+   - Place `lending_club_loan_two.csv` next to `lending_club_info.csv` in the project directory.
+
+
 ## Usage
 - Open and run the loan_repayment_prediction.ipynb notebook in the notebooks directory.
 - Make sure that the datasets and the python code are in the same directory
